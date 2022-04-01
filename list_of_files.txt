@@ -1,0 +1,11 @@
+total 36
+drwxrwxr-x 3 ap ap 4096 Apr  1 15:49 ./
+drwxrwxr-x 7 ap ap 4096 Apr  1 14:49 ../
+-rw-rw-r-- 1 ap ap   16 Apr  1 15:46 anewfile.txt
+-rw-rw-r-- 1 ap ap   48 Apr  1 15:14 code_file.txt
+drwxrwxr-x 8 ap ap 4096 Apr  1 15:48 .git/
+-rw-rw-r-- 1 ap ap    9 Apr  1 15:11 .gitignore
+-rw-rw-r-- 1 ap ap 1072 Apr  1 15:11 LICENSE
+-rw-rw-r-- 1 ap ap    0 Apr  1 15:49 list_of_files.txt
+-rw-rw-r-- 1 ap ap   77 Apr  1 15:11 README.md
+-rw-rw-r-- 1 ap ap   18 Apr  1 15:45 simple.txt
